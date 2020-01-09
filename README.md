@@ -16,6 +16,8 @@ if you got error: No pakage opencv found
 try this one:
 sudo apt-get install libopencv-dev
 
+Running on Mac/Windows? - Think of DOCKER!
+
 To build the solution
 For example for task1
 to build the code:  g++ task1.cpp HOGDescriptor.cpp  -o output pkg-config --cflags --libs opencv
