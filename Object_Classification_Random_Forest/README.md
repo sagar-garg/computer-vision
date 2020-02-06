@@ -21,10 +21,3 @@ Implementation results
 Decision tree of Accuracy 53.33
 
 Random forest accuracy - somewhere around 80 are obtained
-
-### Source
-
-I referred completely on https://github.com/saurabheights/TDCV/tree/master/Exercise04-06 ----- Saviour for life :)
-
-
-#### Task left: task3
