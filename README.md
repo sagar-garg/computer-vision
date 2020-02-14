@@ -2,7 +2,7 @@
 Assignments for Tracking and Detection in Computer Vision Course at Technical University of Munich
 
 Implementations:
-1. Image processing and HOG (Histogram of Oriented Gradients) descriptors
+1. Image processing, Pose Estimation and HOG (Histogram of Oriented Gradients) descriptors
 2. Object Classification (Random Forest)
 3. Object Detection (Random Forest)
 
